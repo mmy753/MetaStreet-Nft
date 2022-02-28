@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(231, 226, 226);
+}
+.connect-button{
+  width: 10%;
+  margin-left: 45%;
+  margin-right: 45%;
+  margin-top: 5%;
+  height: 55px;
+  color: white;
+  background-color:  rgb(50, 67, 90);
+  border: 0;
+  font-weight: 600;
+  font-size: 1.1rem;
+  border-radius: 25px 25px 25px 25px;
+}
